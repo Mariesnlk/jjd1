@@ -1,0 +1,8 @@
+лист. 09, 2021 9:15:31 ПП jjd1_app.IPValidator checkIpAddress
+INFO: Access allowed
+лист. 09, 2021 9:15:44 ПП jjd1_app.IPValidator checkIpAddress
+INFO: Invalid Ip address
+лист. 09, 2021 9:15:59 ПП jjd1_app.IPValidator checkIpAddress
+INFO: Access disallowed
+лист. 09, 2021 9:16:18 ПП jjd1_app.IPValidator checkIpAddress
+INFO: Access disallowed
